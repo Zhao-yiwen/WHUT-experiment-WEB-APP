@@ -1,0 +1,12 @@
+后端：
+cd C:\Users\ASUS\Desktop\Web应用开发\backend
+mvn spring-boot:run
+
+前端：
+cd C:\Users\ASUS\Desktop\Web应用开发\frontend
+npm run serve
+
+开启sql服务：
+net start mysql80
+cd C:\Program Files\MySQL\MySQL Server 8.0\bin
+mysql -u root -p
